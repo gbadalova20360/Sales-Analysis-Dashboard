@@ -34,10 +34,10 @@ Interactive sales analysis dashboard developed using Microsoft Power BI to analy
 
 
 
-[](dashboard-1.png)
+![](dashboard-1.png)
 
 
-[](dashboard-2.png)
+![](dashboard-2.png)
 
 
-[](dashboard-3.png)
+![](dashboard-3.png)
